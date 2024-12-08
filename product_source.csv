@@ -1,0 +1,101 @@
+Product ID,Product Name,Version,Customer Name,Customer ID,Purchase Date,Store Name,Store Location,Price,Payment Method,Promotion/Discount Applied,Warranty Period,Product Condition,Product Category,Product Serial Number,Return/Exchange Status
+P2000,Surface Pro 9,128GB,James Williams,CUST1000,5/20/2020,Apple Store,"Miami, FL","$1,366 ",Online Payment,None,1 year,New,Accessory,CD1345282532,Exchanged
+P2001,Sony WH-1000XM5,8GB RAM,Linda Davis,CUST1001,7/9/2021,Newegg,"Chicago, IL","$1,848 ",Debit Card,None,1 year,Refurbished,Accessory,EF5495582762,Exchanged
+P2002,"iPad Pro 12.9""",8GB RAM,Jamie Pittman,CUST1002,10/22/2020,Microsoft Store,"Denver, CO","$1,043 ",Online Payment,Back to School Sale,2 years,New,Smartwatch,AB6847006528,Returned
+P2003,Apple Watch Ultra,16GB RAM,Carrie Walton,CUST1003,12/20/2021,Apple Store,"San Antonio, TX","$1,317 ",Credit Card,10% off,1 year,New,Smartphone,IJ5059257376,Exchanged
+P2004,Samsung Galaxy S24,512GB,Justin Glover,CUST1004,11/21/2020,Costco,"New York, NY","$2,139 ",Cash,Seasonal Sale,1 year,New,Smartwatch,CD1272208708,Exchanged
+P2005,Surface Pro 9,8GB RAM,Jessica Davila,CUST1005,4/10/2020,Apple Store,"Phoenix, AZ","$1,148 ",Cash,Back to School Sale,2 years,Refurbished,Laptop,GH5360687545,Not Returned
+P2006,Apple Watch Ultra,8GB RAM,Gina Owens,CUST1006,8/9/2023,Newegg,"Philadelphia, PA",$542 ,Credit Card,VIP Discount,3 years,Refurbished,Laptop,GH1918449810,Not Returned
+P2007,"MacBook Air 13""",256GB,Kristy Black,CUST1007,12/16/2021,Newegg,"San Antonio, TX","$1,345 ",Online Payment,Seasonal Sale,3 years,New,Laptop,AB3604933629,Exchanged
+P2008,iPhone 15,8GB RAM,Jennifer Gutierrez,CUST1008,7/23/2021,BestBuy,"Phoenix, AZ","$1,179 ",Debit Card,Black Friday Sale,2 years,Refurbished,Smartphone,GH4289960279,Not Returned
+P2009,Google Pixel 8 Pro,512GB,Garrett Fox,CUST1009,6/20/2023,Staples,"Los Angeles, CA","$1,238 ",Credit Card,10% off,1 year,New,Tablet,CD5034076135,Not Returned
+P2010,Sony WH-1000XM5,49mm,Russell Bennett,CUST1010,1/22/2023,Costco,"New York, NY","$1,388 ",Online Payment,None,3 years,Refurbished,Accessory,CD1949467438,Not Returned
+P2011,"iPad Pro 12.9""",8GB RAM,Kevin Jones,CUST1011,2/17/2021,Staples,"Miami, FL","$1,850 ",Credit Card,10% off,2 years,Refurbished,Laptop,AB2512843179,Not Returned
+P2012,Surface Pro 9,16GB RAM,Katherine Franco,CUST1012,8/23/2023,Amazon,"San Antonio, TX","$1,292 ",Online Payment,Back to School Sale,2 years,Refurbished,Accessory,AB9060489197,Exchanged
+P2013,"iPad Pro 12.9""",49mm,Lisa Thompson,CUST1013,5/11/2020,Walmart,"New York, NY","$1,132 ",Cash,VIP Discount,2 years,Refurbished,Laptop,IJ1723764120,Returned
+P2014,Surface Pro 9,Wireless,Michael Olson,CUST1014,5/22/2020,Target,"San Diego, CA",$360 ,Online Payment,VIP Discount,1 year,New,Headphones,IJ6014837743,Exchanged
+P2015,Surface Pro 9,256GB,Melanie Short,CUST1015,2/24/2021,Newegg,"New York, NY","$1,355 ",Credit Card,Spring Sale,1 year,Refurbished,Accessory,IJ1005424383,Not Returned
+P2016,iPhone 15,256GB,Angel Harris,CUST1016,8/6/2022,BestBuy,"Chicago, IL","$1,270 ",Debit Card,Seasonal Sale,1 year,New,Laptop,EF5919962786,Not Returned
+P2017,"iPad Pro 12.9""",16GB RAM,Sandy Simmons,CUST1017,3/6/2022,Microsoft Store,"New York, NY",$391 ,Debit Card,VIP Discount,2 years,Refurbished,Smartwatch,CD1606232875,Not Returned
+P2018,Dell XPS 15,Wireless,Michele Miller,CUST1018,12/21/2020,Microsoft Store,"Phoenix, AZ","$1,321 ",Debit Card,Black Friday Sale,1 year,New,Laptop,GH6328715011,Returned
+P2019,Samsung Galaxy S24,49mm,Aaron Martin,CUST1019,9/8/2020,Walmart,"Phoenix, AZ","$1,657 ",Credit Card,Back to School Sale,2 years,New,Headphones,AB1099390717,Not Returned
+P2020,HP Spectre x360,128GB,Amy Allen,CUST1020,7/11/2023,Microsoft Store,"Phoenix, AZ",$420 ,Cash,Spring Sale,3 years,Refurbished,Smartphone,EF9944207069,Not Returned
+P2021,Google Pixel 8 Pro,8GB RAM,April Kirby,CUST1021,11/27/2022,Microsoft Store,"Chicago, IL","$1,192 ",Online Payment,Seasonal Sale,1 year,Refurbished,Headphones,GH7197092287,Returned
+P2022,"MacBook Air 13""",512GB,Maria Oliver,CUST1022,5/20/2023,Staples,"Los Angeles, CA","$1,874 ",Debit Card,Back to School Sale,2 years,Refurbished,Smartwatch,IJ4811285248,Exchanged
+P2023,Surface Pro 9,256GB,Ryan Wood,CUST1023,5/28/2021,Target,"Chicago, IL","$1,996 ",Cash,VIP Discount,1 year,Refurbished,Laptop,CD9532879006,Not Returned
+P2024,HP Spectre x360,49mm,Jose Coleman,CUST1024,7/20/2022,Apple Store,"Philadelphia, PA","$1,024 ",Credit Card,Back to School Sale,3 years,Refurbished,Smartwatch,GH7528535255,Returned
+P2025,Apple Watch Ultra,128GB,Michael Garcia,CUST1025,11/16/2020,Costco,"Denver, CO","$1,123 ",Credit Card,Black Friday Sale,2 years,New,Smartphone,EF1787357478,Returned
+P2026,iPhone 15,8GB RAM,Joseph Barr,CUST1026,6/13/2022,Costco,"San Antonio, TX","$2,232 ",Cash,Spring Sale,2 years,Refurbished,Tablet,CD4169547414,Exchanged
+P2027,Google Pixel 8 Pro,8GB RAM,Haley Grimes,CUST1027,6/21/2023,Target,"Philadelphia, PA",$475 ,Cash,Black Friday Sale,2 years,New,Tablet,IJ6263773742,Not Returned
+P2028,Sony WH-1000XM5,256GB,Joseph Lloyd,CUST1028,4/11/2021,Staples,"Miami, FL","$1,234 ",Online Payment,Back to School Sale,1 year,New,Tablet,CD7772780097,Exchanged
+P2029,iPhone 15,16GB RAM,Angela Ryan,CUST1029,4/9/2021,Costco,"Philadelphia, PA","$2,340 ",Credit Card,Back to School Sale,3 years,Refurbished,Laptop,AB5935384353,Exchanged
+P2030,Apple Watch Ultra,Wireless,Jared Smith,CUST1030,11/14/2020,Costco,"Philadelphia, PA","$1,701 ",Online Payment,None,3 years,New,Headphones,AB2631975011,Returned
+P2031,Sony WH-1000XM5,128GB,Timothy Mueller,CUST1031,12/18/2020,Walmart,"Philadelphia, PA",$703 ,Online Payment,Holiday Discount,3 years,New,Laptop,IJ1245662450,Not Returned
+P2032,Sony WH-1000XM5,256GB,Christine Andrade,CUST1032,4/14/2020,Costco,"New York, NY","$1,694 ",Credit Card,VIP Discount,3 years,New,Laptop,EF8075365917,Exchanged
+P2033,Surface Pro 9,256GB,David Lane DDS,CUST1033,8/16/2023,Target,"Los Angeles, CA","$1,536 ",Online Payment,VIP Discount,2 years,Refurbished,Headphones,GH8592708854,Not Returned
+P2034,Dell XPS 15,16GB RAM,Shawna Moses,CUST1034,10/9/2023,BestBuy,"Denver, CO","$1,277 ",Online Payment,Spring Sale,1 year,Refurbished,Laptop,CD9838925631,Not Returned
+P2035,HP Spectre x360,16GB RAM,Jill Smith,CUST1035,11/16/2023,B&H,"Philadelphia, PA",$742 ,Online Payment,Back to School Sale,3 years,New,Smartwatch,GH5100661503,Not Returned
+P2036,Dell XPS 15,128GB,John Mcdonald,CUST1036,3/12/2020,Microsoft Store,"San Diego, CA","$1,678 ",Debit Card,Back to School Sale,1 year,New,Tablet,AB3396513695,Returned
+P2037,Google Pixel 8 Pro,Wireless,Mrs. Pamela Owens,CUST1037,12/18/2022,B&H,"Los Angeles, CA","$1,341 ",Debit Card,Spring Sale,3 years,Refurbished,Headphones,GH6758770831,Not Returned
+P2038,Samsung Galaxy S24,49mm,Donna Gregory,CUST1038,6/22/2021,B&H,"Chicago, IL","$2,491 ",Cash,Holiday Discount,2 years,New,Smartwatch,EF1539684721,Exchanged
+P2039,"iPad Pro 12.9""",8GB RAM,Edward Beck,CUST1039,4/15/2020,BestBuy,"San Diego, CA","$1,917 ",Credit Card,Spring Sale,1 year,New,Headphones,EF8005265054,Exchanged
+P2040,Apple Watch Ultra,256GB,Kathy Evans,CUST1040,12/9/2020,Newegg,"Chicago, IL","$1,543 ",Debit Card,Holiday Discount,2 years,Refurbished,Tablet,CD3077809889,Returned
+P2041,Apple Watch Ultra,Wireless,Karen Randolph,CUST1041,3/16/2020,Amazon,"Los Angeles, CA","$1,487 ",Debit Card,10% off,1 year,New,Smartphone,GH8184215544,Not Returned
+P2042,Google Pixel 8 Pro,Wireless,Jacqueline Parsons,CUST1042,6/23/2023,Microsoft Store,"San Antonio, TX","$2,081 ",Cash,Seasonal Sale,1 year,New,Headphones,GH5353969373,Returned
+P2043,Samsung Galaxy S24,256GB,Jonathan Pierce,CUST1043,9/6/2023,B&H,"San Diego, CA","$2,323 ",Cash,Spring Sale,2 years,New,Smartwatch,IJ6303850884,Returned
+P2044,Dell XPS 15,49mm,Brian Mckenzie,CUST1044,7/26/2020,B&H,"New York, NY","$1,172 ",Debit Card,Holiday Discount,2 years,New,Laptop,IJ8314509134,Not Returned
+P2045,Dell XPS 15,512GB,Stephanie Barber,CUST1045,9/18/2022,Newegg,"Los Angeles, CA","$1,768 ",Cash,Seasonal Sale,3 years,Refurbished,Tablet,EF6096763079,Returned
+P2046,Samsung Galaxy S24,256GB,Diana Montes,CUST1046,3/3/2021,B&H,"Miami, FL","$1,662 ",Cash,10% off,1 year,New,Accessory,GH3170088085,Returned
+P2047,Google Pixel 8 Pro,49mm,Megan Moore,CUST1047,6/14/2020,Newegg,"Philadelphia, PA","$1,055 ",Online Payment,Seasonal Sale,1 year,Refurbished,Tablet,AB3748646092,Not Returned
+P2048,Surface Pro 9,49mm,Matthew Taylor,CUST1048,3/26/2021,Microsoft Store,"San Diego, CA","$1,092 ",Online Payment,Seasonal Sale,2 years,New,Smartphone,GH8874173238,Exchanged
+P2049,Dell XPS 15,512GB,Dawn Holmes,CUST1049,6/28/2023,B&H,"Philadelphia, PA","$2,340 ",Debit Card,Seasonal Sale,2 years,New,Smartwatch,CD5400023440,Exchanged
+P2050,Samsung Galaxy S24,49mm,David Silva,CUST1050,4/18/2021,Staples,"Philadelphia, PA","$1,013 ",Online Payment,Spring Sale,2 years,Refurbished,Headphones,GH6711445029,Returned
+P2051,Google Pixel 8 Pro,256GB,Joshua Anderson,CUST1051,5/3/2022,Apple Store,"Phoenix, AZ",$657 ,Debit Card,VIP Discount,1 year,Refurbished,Accessory,CD2031569843,Exchanged
+P2052,iPhone 15,256GB,Matthew Boyle,CUST1052,1/27/2023,Target,"Philadelphia, PA","$2,418 ",Cash,Back to School Sale,1 year,New,Accessory,GH6471062615,Returned
+P2053,Apple Watch Ultra,49mm,Melinda Taylor,CUST1053,11/26/2023,B&H,"Houston, TX","$2,467 ",Online Payment,Back to School Sale,3 years,New,Laptop,IJ2645897786,Exchanged
+P2054,Samsung Galaxy S24,8GB RAM,Matthew Taylor,CUST1054,10/20/2023,Apple Store,"Denver, CO","$1,822 ",Cash,Spring Sale,3 years,New,Smartwatch,IJ7512240518,Exchanged
+P2055,Surface Pro 9,49mm,Sarah Salinas,CUST1055,9/19/2021,Apple Store,"Phoenix, AZ",$985 ,Online Payment,10% off,2 years,New,Smartwatch,AB6418987505,Exchanged
+P2056,Sony WH-1000XM5,16GB RAM,Frank Cooper,CUST1056,2/27/2022,Amazon,"Houston, TX",$969 ,Cash,10% off,1 year,Refurbished,Accessory,AB1103816026,Not Returned
+P2057,Apple Watch Ultra,256GB,Michael Parker,CUST1057,4/19/2021,B&H,"Philadelphia, PA","$2,353 ",Online Payment,Holiday Discount,3 years,Refurbished,Accessory,GH5234593654,Not Returned
+P2058,Google Pixel 8 Pro,16GB RAM,Bryan Watson,CUST1058,6/6/2022,Apple Store,"Chicago, IL","$2,095 ",Cash,Spring Sale,3 years,New,Laptop,AB5517852132,Exchanged
+P2059,Apple Watch Ultra,16GB RAM,Brian Henderson,CUST1059,2/3/2020,BestBuy,"Philadelphia, PA","$1,555 ",Cash,Seasonal Sale,1 year,Refurbished,Accessory,EF1809377869,Not Returned
+P2060,Dell XPS 15,512GB,Thomas Hamilton,CUST1060,7/16/2022,Amazon,"Denver, CO",$548 ,Debit Card,VIP Discount,2 years,New,Laptop,IJ6835880666,Returned
+P2061,Apple Watch Ultra,8GB RAM,Cynthia Smith,CUST1061,11/5/2023,BestBuy,"Houston, TX","$2,026 ",Credit Card,Spring Sale,3 years,Refurbished,Accessory,GH8435090718,Exchanged
+P2062,"MacBook Air 13""",512GB,Kelly Richards,CUST1062,7/28/2023,Amazon,"Philadelphia, PA","$2,120 ",Credit Card,10% off,2 years,New,Tablet,IJ1195272181,Not Returned
+P2063,Samsung Galaxy S24,128GB,Brenda Cooper,CUST1063,6/15/2022,BestBuy,"Los Angeles, CA",$434 ,Credit Card,10% off,2 years,New,Smartphone,GH2142610479,Returned
+P2064,Apple Watch Ultra,16GB RAM,Elizabeth Madden,CUST1064,4/3/2021,Costco,"San Antonio, TX","$1,465 ",Online Payment,Back to School Sale,2 years,Refurbished,Smartwatch,CD4081175843,Exchanged
+P2065,Surface Pro 9,8GB RAM,Amy Ruiz,CUST1065,12/4/2023,BestBuy,"Miami, FL","$2,430 ",Debit Card,Spring Sale,3 years,New,Tablet,CD4248739165,Exchanged
+P2066,iPhone 15,49mm,John Rose,CUST1066,4/27/2023,Amazon,"Phoenix, AZ","$1,244 ",Debit Card,10% off,1 year,New,Accessory,IJ6129120406,Not Returned
+P2067,Sony WH-1000XM5,512GB,Jason Leonard,CUST1067,2/12/2021,Newegg,"New York, NY","$1,173 ",Online Payment,VIP Discount,2 years,New,Accessory,EF9037548224,Exchanged
+P2068,Apple Watch Ultra,128GB,Mr. James Garcia,CUST1068,6/8/2021,Costco,"Chicago, IL","$2,289 ",Online Payment,Spring Sale,3 years,New,Laptop,AB4181987046,Not Returned
+P2069,Surface Pro 9,8GB RAM,Calvin Hudson,CUST1069,9/22/2021,Target,"Phoenix, AZ",$879 ,Cash,10% off,2 years,New,Tablet,CD7172707271,Not Returned
+P2070,"iPad Pro 12.9""",49mm,Marilyn Torres,CUST1070,6/15/2020,Newegg,"San Diego, CA","$2,153 ",Credit Card,10% off,1 year,New,Accessory,EF7407707160,Not Returned
+P2071,Sony WH-1000XM5,128GB,Meredith Banks MD,CUST1071,8/25/2022,Microsoft Store,"Los Angeles, CA","$1,655 ",Credit Card,10% off,2 years,New,Tablet,IJ1410368230,Not Returned
+P2072,HP Spectre x360,49mm,Kimberly Hale,CUST1072,11/1/2020,B&H,"New York, NY","$2,240 ",Cash,Back to School Sale,1 year,New,Headphones,AB9536581244,Not Returned
+P2073,HP Spectre x360,16GB RAM,Gwendolyn Li,CUST1073,9/25/2021,Walmart,"Denver, CO","$1,133 ",Cash,None,2 years,Refurbished,Smartphone,EF8876581822,Exchanged
+P2074,Dell XPS 15,49mm,Elizabeth Hansen,CUST1074,12/24/2023,Staples,"Miami, FL","$2,379 ",Online Payment,Black Friday Sale,1 year,New,Headphones,CD9409369271,Exchanged
+P2075,Surface Pro 9,Wireless,Greg Mcguire,CUST1075,5/5/2020,Apple Store,"San Diego, CA",$875 ,Cash,Seasonal Sale,2 years,Refurbished,Smartwatch,AB2545673506,Exchanged
+P2076,Dell XPS 15,256GB,Jordan Smith,CUST1076,6/19/2023,BestBuy,"San Diego, CA",$775 ,Credit Card,Seasonal Sale,1 year,Refurbished,Smartwatch,AB3880102511,Returned
+P2077,Sony WH-1000XM5,Wireless,Michael Dodson,CUST1077,12/14/2020,Target,"Chicago, IL",$551 ,Debit Card,VIP Discount,2 years,New,Laptop,AB8839353703,Not Returned
+P2078,Samsung Galaxy S24,128GB,Gloria Patel,CUST1078,7/20/2021,Microsoft Store,"Chicago, IL","$2,023 ",Cash,VIP Discount,3 years,New,Laptop,EF2259457484,Returned
+P2079,Google Pixel 8 Pro,49mm,Eric Mcdowell,CUST1079,10/16/2023,Amazon,"San Diego, CA","$1,469 ",Credit Card,None,2 years,New,Tablet,CD3500778459,Returned
+P2080,Samsung Galaxy S24,49mm,Laura Riggs,CUST1080,1/1/2021,BestBuy,"Houston, TX","$1,703 ",Credit Card,Spring Sale,3 years,Refurbished,Tablet,CD7842165862,Exchanged
+P2081,Dell XPS 15,49mm,Amy West,CUST1081,8/16/2022,Target,"Phoenix, AZ","$2,376 ",Credit Card,VIP Discount,1 year,Refurbished,Accessory,AB1366683799,Exchanged
+P2082,"iPad Pro 12.9""",Wireless,Jamie Miller,CUST1082,3/17/2022,Amazon,"Phoenix, AZ","$1,650 ",Debit Card,None,3 years,New,Headphones,AB5324263812,Returned
+P2083,HP Spectre x360,Wireless,Robert Valencia,CUST1083,2/20/2022,Walmart,"Houston, TX","$1,497 ",Credit Card,VIP Discount,2 years,New,Smartphone,GH6599742063,Returned
+P2084,Sony WH-1000XM5,8GB RAM,Lori Hopkins,CUST1084,11/17/2020,BestBuy,"Phoenix, AZ","$1,238 ",Online Payment,Seasonal Sale,3 years,New,Laptop,CD8673357765,Returned
+P2085,Surface Pro 9,128GB,Wendy Carter,CUST1085,11/22/2021,BestBuy,"Philadelphia, PA","$2,317 ",Credit Card,Spring Sale,1 year,New,Accessory,EF4150100559,Exchanged
+P2086,Apple Watch Ultra,8GB RAM,Michael Fox,CUST1086,3/6/2020,BestBuy,"Houston, TX",$971 ,Credit Card,Back to School Sale,2 years,New,Laptop,CD8979337179,Returned
+P2087,Surface Pro 9,256GB,Courtney Powell,CUST1087,4/1/2022,Microsoft Store,"Miami, FL",$625 ,Debit Card,Spring Sale,1 year,Refurbished,Tablet,AB3979720179,Exchanged
+P2088,Sony WH-1000XM5,512GB,Mark Joyce,CUST1088,2/19/2023,B&H,"San Diego, CA","$2,061 ",Debit Card,Black Friday Sale,1 year,Refurbished,Tablet,EF9449107084,Exchanged
+P2089,iPhone 15,49mm,Gerald Horn,CUST1089,12/26/2020,Staples,"San Diego, CA","$2,366 ",Online Payment,Spring Sale,1 year,Refurbished,Headphones,CD7838485540,Returned
+P2090,Samsung Galaxy S24,256GB,Whitney Summers,CUST1090,5/17/2020,Microsoft Store,"Los Angeles, CA",$689 ,Cash,Seasonal Sale,1 year,Refurbished,Laptop,AB4422710716,Exchanged
+P2091,"MacBook Air 13""",16GB RAM,Anne Lopez MD,CUST1091,2/24/2021,Amazon,"Chicago, IL","$2,015 ",Credit Card,VIP Discount,1 year,New,Accessory,CD1308642959,Returned
+P2092,Dell XPS 15,8GB RAM,Cheryl Smith,CUST1092,7/19/2022,Target,"Denver, CO",$385 ,Debit Card,Spring Sale,2 years,Refurbished,Smartwatch,CD6797256415,Returned
+P2093,"iPad Pro 12.9""",16GB RAM,Jennifer Lang,CUST1093,1/18/2023,Walmart,"Houston, TX","$1,534 ",Credit Card,None,2 years,New,Smartphone,EF6139345570,Not Returned
+P2094,"MacBook Air 13""",128GB,Valerie Rogers,CUST1094,4/4/2020,BestBuy,"San Antonio, TX",$924 ,Online Payment,Back to School Sale,3 years,New,Tablet,IJ4186347726,Exchanged
+P2095,Samsung Galaxy S24,49mm,Charles Berry,CUST1095,4/11/2022,Staples,"Houston, TX","$1,841 ",Cash,VIP Discount,2 years,New,Smartwatch,GH1049446471,Exchanged
+P2096,HP Spectre x360,49mm,Craig Garcia,CUST1096,2/12/2023,Amazon,"Miami, FL","$1,547 ",Online Payment,Spring Sale,2 years,New,Laptop,IJ8922798918,Returned
+P2097,"MacBook Air 13""",49mm,Amy Griffin,CUST1097,7/5/2023,Staples,"San Antonio, TX","$1,262 ",Cash,Spring Sale,2 years,New,Accessory,IJ8891878365,Returned
+P2098,Google Pixel 8 Pro,Wireless,Daniel Reynolds,CUST1098,1/17/2020,Costco,"Phoenix, AZ","$2,351 ",Online Payment,Holiday Discount,1 year,Refurbished,Tablet,GH5402227629,Not Returned
+P2099,Surface Pro 9,256GB,Timothy Ingram,CUST1099,12/17/2022,Walmart,"Phoenix, AZ","$2,295 ",Debit Card,Back to School Sale,1 year,Refurbished,Smartphone,EF6848276284,Exchanged
