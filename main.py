@@ -8,6 +8,9 @@ class SparkApplication():
 
     def get_spark(self):
         return self.spark
+    # def file_read(self):
+    #     self.spark.read.csv(filename, filepath)
+    #     return filename
 
     def file_write(self, filename, filepath):
         filename.coalesce(1).write.mode('overwrite').csv(filepath, header=True)
